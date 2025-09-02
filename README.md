@@ -16,11 +16,11 @@
 
     Một HR Dashboard được xây dựng trên Power BI với khả năng:
 
-    Tổng hợp dữ liệu nhân sự từ nhiều chiều (giới tính, thâm niên, cấp bậc, phòng ban, mức độ hài lòng).
-
-    Tự động tính toán các KPI quan trọng như: tỷ lệ nghỉ việc, tỷ lệ thăng chức, mức độ hài lòng, overtime.
-
-    Trực quan hóa dữ liệu bằng biểu đồ, bảng phân tích và danh sách chi tiết để hỗ trợ hành động ngay.
+        Tổng hợp dữ liệu nhân sự từ nhiều chiều (giới tính, thâm niên, cấp bậc, phòng ban, mức độ hài lòng).
+    
+        Tự động tính toán các KPI quan trọng như: tỷ lệ nghỉ việc, tỷ lệ thăng chức, mức độ hài lòng, overtime.
+    
+        Trực quan hóa dữ liệu bằng biểu đồ, bảng phân tích và danh sách chi tiết để hỗ trợ hành động ngay.
 
 4. Kết quả đạt được
 
@@ -73,5 +73,6 @@
     Giảm rủi ro nghỉ việc nhờ phát hiện sớm nhóm nhân sự có mức độ hài lòng thấp.
 
     Hỗ trợ chiến lược dài hạn trong đào tạo, phát triển và xây dựng đội ngũ kế thừa.
+
 
 
